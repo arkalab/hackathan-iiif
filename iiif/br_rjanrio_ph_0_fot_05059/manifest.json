@@ -58,8 +58,16 @@
         }
     ],
     "requiredStatement": {
-        "label": "Créditos",
-        "value": "Disponibilizado por Arquivo Nacional do Brasil"
+        "label": {
+            "none": [
+                "Créditos"
+            ]
+        },
+        "value": {
+            "none": [
+                "Disponibilizado por Arquivo Nacional do Brasil"
+            ]
+        }
     },
     "thumbnail": [
         {
