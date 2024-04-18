@@ -1,0 +1,120 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://hackathan-iiif.onrender.com/index.json",
+    "type": "Collection",
+    "label": {
+        "none": [
+            "HackathAN"
+        ]
+    },
+    "thumbnail": [
+        {
+            "id": "https://hackathan-iiif.onrender.com/br_rjanrio_o2_0_fot_0027/d476572bcbae7c7e7ad46a5916401869/full/206,300/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 300,
+            "width": 206
+        }
+    ],
+    "items": [
+        {
+            "id": "https://hackathan-iiif.onrender.com/br_rjanrio_o2_0_fot_0027/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Thomas Edison"
+                ]
+            }
+        },
+        {
+            "id": "https://hackathan-iiif.onrender.com/br_rjanrio_o2_0_fot_0046/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Mozart"
+                ]
+            }
+        },
+        {
+            "id": "https://hackathan-iiif.onrender.com/br_rjanrio_o2_0_fot_0184/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Campo de Santana (Rio de Janeiro, Brasil)"
+                ]
+            }
+        },
+        {
+            "id": "https://hackathan-iiif.onrender.com/br_rjanrio_o2_0_fot_0391/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Dom Pedro II"
+                ]
+            }
+        },
+        {
+            "id": "https://hackathan-iiif.onrender.com/br_rjanrio_o2_0_fot_0436/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "[Mulher negra com criança branca no colo]"
+                ]
+            }
+        },
+        {
+            "id": "https://hackathan-iiif.onrender.com/br_rjanrio_o2_0_fot_0465/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Princesa Isabel"
+                ]
+            }
+        },
+        {
+            "id": "https://hackathan-iiif.onrender.com/br_rjanrio_on_0_fot_0033/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BR_RJANRIO_ON_0_FOT_0033"
+                ]
+            }
+        },
+        {
+            "id": "https://hackathan-iiif.onrender.com/br_rjanrio_on_0_fot_0053/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Visita do Presidente [Afonso] Pena as obras do porto"
+                ]
+            }
+        },
+        {
+            "id": "https://hackathan-iiif.onrender.com/br_rjanrio_ph_0_fot_03243/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Seleção Brasileira em partida contra Tchecoslováquia"
+                ]
+            }
+        },
+        {
+            "id": "https://hackathan-iiif.onrender.com/br_rjanrio_ph_0_fot_05059/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Campo de São Cristóvão"
+                ]
+            }
+        },
+        {
+            "id": "https://hackathan-iiif.onrender.com/br_rjanrio_ph_0_fot_23005/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Luis Gama"
+                ]
+            }
+        }
+    ]
+}

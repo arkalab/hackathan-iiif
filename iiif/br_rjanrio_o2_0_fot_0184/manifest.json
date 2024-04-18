@@ -1,0 +1,171 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://hackathan-iiif.onrender.com/br_rjanrio_o2_0_fot_0184/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "Campo de Santana (Rio de Janeiro, Brasil)"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Tipo"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Fotografia"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Provedor"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Arquivo Nacional do Brasil"
+                ]
+            }
+        }
+    ],
+    "requiredStatement": {
+        "label": "Créditos",
+        "value": "Disponibilizado por Arquivo Nacional do Brasil"
+    },
+    "thumbnail": [
+        {
+            "id": "https://hackathan-iiif.onrender.com/br_rjanrio_o2_0_fot_0184/4e5e0163b6c615bc0228e85fa192aa8f/full/300,215/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 215,
+            "width": 300
+        }
+    ],
+    "items": [
+        {
+            "id": "https://hackathan-iiif.onrender.com/br_rjanrio_o2_0_fot_0184/canvas/1",
+            "type": "Canvas",
+            "height": 735,
+            "width": 1024,
+            "label": {
+                "none": [
+                    "Frente"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://hackathan-iiif.onrender.com/br_rjanrio_o2_0_fot_0184/4e5e0163b6c615bc0228e85fa192aa8f/full/300,215/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 215,
+                    "width": 300
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://hackathan-iiif.onrender.com/br_rjanrio_o2_0_fot_0184/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://hackathan-iiif.onrender.com/br_rjanrio_o2_0_fot_0184/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://hackathan-iiif.onrender.com/br_rjanrio_o2_0_fot_0184/canvas/1",
+                            "body": {
+                                "id": "https://hackathan-iiif.onrender.com/br_rjanrio_o2_0_fot_0184/4e5e0163b6c615bc0228e85fa192aa8f/full/1024,735/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 735,
+                                "width": 1024,
+                                "service": [
+                                    {
+                                        "id": "https://hackathan-iiif.onrender.com/br_rjanrio_o2_0_fot_0184/4e5e0163b6c615bc0228e85fa192aa8f",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://hackathan-iiif.onrender.com/br_rjanrio_o2_0_fot_0184/canvas/2",
+            "type": "Canvas",
+            "height": 745,
+            "width": 1024,
+            "label": {
+                "none": [
+                    "Verso"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://hackathan-iiif.onrender.com/br_rjanrio_o2_0_fot_0184/58d3d041994278e16fe277b5c579dc6c/full/300,218/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 218,
+                    "width": 300
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://hackathan-iiif.onrender.com/br_rjanrio_o2_0_fot_0184/canvas/2/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://hackathan-iiif.onrender.com/br_rjanrio_o2_0_fot_0184/canvas/2/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://hackathan-iiif.onrender.com/br_rjanrio_o2_0_fot_0184/canvas/2",
+                            "body": {
+                                "id": "https://hackathan-iiif.onrender.com/br_rjanrio_o2_0_fot_0184/58d3d041994278e16fe277b5c579dc6c/full/1024,745/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 745,
+                                "width": 1024,
+                                "service": [
+                                    {
+                                        "id": "https://hackathan-iiif.onrender.com/br_rjanrio_o2_0_fot_0184/58d3d041994278e16fe277b5c579dc6c",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "navPlace": {
+        "id": "https://hackathan-iiif.onrender.com/br_rjanrio_o2_0_fot_0184/feature-collection/0",
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "id": "https://hackathan-iiif.onrender.com/br_rjanrio_o2_0_fot_0184/feature/0",
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        "-43.1904433",
+                        "-22.9073479"
+                    ]
+                },
+                "properties": {
+                    "label": [
+                        {
+                            "none": "Campo de Santana (Rio de Janeiro, Brasil)"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

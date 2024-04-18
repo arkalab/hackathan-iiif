@@ -1,0 +1,28 @@
+{
+  "@context": "http://iiif.io/api/image/3/context.json",
+  "id": "https://hackathan-iiif.onrender.com/br_rjanrio_ph_0_fot_23005/d4e32235e6dc471776d1ad73cdc33456",
+  "type": "ImageService3",
+  "profile": "level0",
+  "protocol": "http://iiif.io/api/image",
+  "tiles": [
+    {
+      "scaleFactors": [
+        1,
+        2
+      ],
+      "width": 256
+    }
+  ],
+  "width": 798,
+  "height": 1024,
+  "sizes": [
+    {
+      "width": 234,
+      "height": 300
+    },
+    {
+      "width": 798,
+      "height": 1024
+    }
+  ]
+}

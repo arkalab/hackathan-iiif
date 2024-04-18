@@ -1,0 +1,159 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://hackathan-iiif.onrender.com/br_rjanrio_o2_0_fot_0046/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "Mozart"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Tipo"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Fotogravura"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Autoria"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Neurdein"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Provedor"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Arquivo Nacional do Brasil"
+                ]
+            }
+        }
+    ],
+    "requiredStatement": {
+        "label": "Créditos",
+        "value": "Disponibilizado por Arquivo Nacional do Brasil"
+    },
+    "thumbnail": [
+        {
+            "id": "https://hackathan-iiif.onrender.com/br_rjanrio_o2_0_fot_0046/dc739d1acc20a8c1071f249679bd2692/full/213,300/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 300,
+            "width": 213
+        }
+    ],
+    "items": [
+        {
+            "id": "https://hackathan-iiif.onrender.com/br_rjanrio_o2_0_fot_0046/canvas/1",
+            "type": "Canvas",
+            "height": 1024,
+            "width": 728,
+            "label": {
+                "none": [
+                    "Frente"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://hackathan-iiif.onrender.com/br_rjanrio_o2_0_fot_0046/dc739d1acc20a8c1071f249679bd2692/full/213,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 213
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://hackathan-iiif.onrender.com/br_rjanrio_o2_0_fot_0046/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://hackathan-iiif.onrender.com/br_rjanrio_o2_0_fot_0046/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://hackathan-iiif.onrender.com/br_rjanrio_o2_0_fot_0046/canvas/1",
+                            "body": {
+                                "id": "https://hackathan-iiif.onrender.com/br_rjanrio_o2_0_fot_0046/dc739d1acc20a8c1071f249679bd2692/full/728,1024/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1024,
+                                "width": 728,
+                                "service": [
+                                    {
+                                        "id": "https://hackathan-iiif.onrender.com/br_rjanrio_o2_0_fot_0046/dc739d1acc20a8c1071f249679bd2692",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://hackathan-iiif.onrender.com/br_rjanrio_o2_0_fot_0046/canvas/2",
+            "type": "Canvas",
+            "height": 1024,
+            "width": 704,
+            "label": {
+                "none": [
+                    "Verso"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://hackathan-iiif.onrender.com/br_rjanrio_o2_0_fot_0046/1beb171ba83c7e43a6c344eee115913a/full/206,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 206
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://hackathan-iiif.onrender.com/br_rjanrio_o2_0_fot_0046/canvas/2/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://hackathan-iiif.onrender.com/br_rjanrio_o2_0_fot_0046/canvas/2/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://hackathan-iiif.onrender.com/br_rjanrio_o2_0_fot_0046/canvas/2",
+                            "body": {
+                                "id": "https://hackathan-iiif.onrender.com/br_rjanrio_o2_0_fot_0046/1beb171ba83c7e43a6c344eee115913a/full/704,1024/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1024,
+                                "width": 704,
+                                "service": [
+                                    {
+                                        "id": "https://hackathan-iiif.onrender.com/br_rjanrio_o2_0_fot_0046/1beb171ba83c7e43a6c344eee115913a",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

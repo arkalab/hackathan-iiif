@@ -1,0 +1,195 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://hackathan-iiif.onrender.com/br_rjanrio_ph_0_fot_05059/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "Campo de São Cristóvão"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Tipo"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Fotografia"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Autoria"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Adalberto Diniz"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Data"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1971-11-05"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Provedor"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Arquivo Nacional do Brasil"
+                ]
+            }
+        }
+    ],
+    "requiredStatement": {
+        "label": "Créditos",
+        "value": "Disponibilizado por Arquivo Nacional do Brasil"
+    },
+    "thumbnail": [
+        {
+            "id": "https://hackathan-iiif.onrender.com/br_rjanrio_ph_0_fot_05059/c68f2676e080fbd40da7128ae63a9196/full/300,195/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 195,
+            "width": 300
+        }
+    ],
+    "items": [
+        {
+            "id": "https://hackathan-iiif.onrender.com/br_rjanrio_ph_0_fot_05059/canvas/1",
+            "type": "Canvas",
+            "height": 665,
+            "width": 1024,
+            "label": {
+                "none": [
+                    "Frente"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://hackathan-iiif.onrender.com/br_rjanrio_ph_0_fot_05059/c68f2676e080fbd40da7128ae63a9196/full/300,195/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 195,
+                    "width": 300
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://hackathan-iiif.onrender.com/br_rjanrio_ph_0_fot_05059/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://hackathan-iiif.onrender.com/br_rjanrio_ph_0_fot_05059/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://hackathan-iiif.onrender.com/br_rjanrio_ph_0_fot_05059/canvas/1",
+                            "body": {
+                                "id": "https://hackathan-iiif.onrender.com/br_rjanrio_ph_0_fot_05059/c68f2676e080fbd40da7128ae63a9196/full/1024,665/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 665,
+                                "width": 1024,
+                                "service": [
+                                    {
+                                        "id": "https://hackathan-iiif.onrender.com/br_rjanrio_ph_0_fot_05059/c68f2676e080fbd40da7128ae63a9196",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://hackathan-iiif.onrender.com/br_rjanrio_ph_0_fot_05059/canvas/2",
+            "type": "Canvas",
+            "height": 687,
+            "width": 1024,
+            "label": {
+                "none": [
+                    "Verso"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://hackathan-iiif.onrender.com/br_rjanrio_ph_0_fot_05059/6300e9c71b5b027688cc0f0754b0532f/full/300,201/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 201,
+                    "width": 300
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://hackathan-iiif.onrender.com/br_rjanrio_ph_0_fot_05059/canvas/2/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://hackathan-iiif.onrender.com/br_rjanrio_ph_0_fot_05059/canvas/2/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://hackathan-iiif.onrender.com/br_rjanrio_ph_0_fot_05059/canvas/2",
+                            "body": {
+                                "id": "https://hackathan-iiif.onrender.com/br_rjanrio_ph_0_fot_05059/6300e9c71b5b027688cc0f0754b0532f/full/1024,687/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 687,
+                                "width": 1024,
+                                "service": [
+                                    {
+                                        "id": "https://hackathan-iiif.onrender.com/br_rjanrio_ph_0_fot_05059/6300e9c71b5b027688cc0f0754b0532f",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "navPlace": {
+        "id": "https://hackathan-iiif.onrender.com/br_rjanrio_ph_0_fot_05059/feature-collection/0",
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "id": "https://hackathan-iiif.onrender.com/br_rjanrio_ph_0_fot_05059/feature/0",
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        "-43.2208933",
+                        "-22.8975968"
+                    ]
+                },
+                "properties": {
+                    "label": [
+                        {
+                            "none": "Campo de São Cristóvão"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}
