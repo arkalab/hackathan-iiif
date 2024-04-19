@@ -1,0 +1,12 @@
+{
+    "completions": [
+        {
+            "uri": "https://www.wikidata.org/wiki/Q155174",
+            "label": "Maracanã (Rio de Janeiro, RJ)",
+            "description": "Estádio de futebol",
+            "resource_class": "Geográfica",
+            "score": 123,
+            "language": "pt"
+        }
+    ]
+}
