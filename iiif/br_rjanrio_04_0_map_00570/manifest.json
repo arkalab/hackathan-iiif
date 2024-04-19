@@ -1,0 +1,119 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://hackathan-iiif.onrender.com/br_rjanrio_04_0_map_00570/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "[Mapa dos canais ao norte da Baía de Guanabara]"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Tipo"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Cartográfico"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Autoria"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Comissão Federal de Saneamento da Baixada Fluminense"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Provedor"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Arquivo Nacional do Brasil"
+                ]
+            }
+        }
+    ],
+    "requiredStatement": {
+        "label": {
+            "none": [
+                "Créditos"
+            ]
+        },
+        "value": {
+            "none": [
+                "Disponibilizado por Arquivo Nacional do Brasil"
+            ]
+        }
+    },
+    "thumbnail": [
+        {
+            "id": "https://hackathan-iiif.onrender.com/br_rjanrio_04_0_map_00570/d29c79ea23984f31cd5a2bbab31c496d/full/300,258/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 258,
+            "width": 300
+        }
+    ],
+    "items": [
+        {
+            "id": "https://hackathan-iiif.onrender.com/br_rjanrio_04_0_map_00570/canvas/1",
+            "type": "Canvas",
+            "height": 880,
+            "width": 1024,
+            "label": {
+                "none": [
+                    "Frente"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://hackathan-iiif.onrender.com/br_rjanrio_04_0_map_00570/d29c79ea23984f31cd5a2bbab31c496d/full/300,258/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 258,
+                    "width": 300
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://hackathan-iiif.onrender.com/br_rjanrio_04_0_map_00570/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://hackathan-iiif.onrender.com/br_rjanrio_04_0_map_00570/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://hackathan-iiif.onrender.com/br_rjanrio_04_0_map_00570/canvas/1",
+                            "body": {
+                                "id": "https://hackathan-iiif.onrender.com/br_rjanrio_04_0_map_00570/d29c79ea23984f31cd5a2bbab31c496d/full/1024,880/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 880,
+                                "width": 1024,
+                                "service": [
+                                    {
+                                        "id": "https://hackathan-iiif.onrender.com/br_rjanrio_04_0_map_00570/d29c79ea23984f31cd5a2bbab31c496d",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
