@@ -115,6 +115,15 @@
                     "Luis Gama"
                 ]
             }
+        },
+        {
+            "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Códice 390 - Volume 6"
+                ]
+            }
         }
     ]
 }

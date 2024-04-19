@@ -1,0 +1,1067 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "Códice 390 - Volume 6"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Tipo"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Manuscrito"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Provedor"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Arquivo Nacional do Brasil"
+                ]
+            }
+        }
+    ],
+    "requiredStatement": {
+        "label": {
+            "none": [
+                "Créditos"
+            ]
+        },
+        "value": {
+            "none": [
+                "Disponibilizado por Arquivo Nacional do Brasil"
+            ]
+        }
+    },
+    "thumbnail": [
+        {
+            "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/60ecf750ef085f14df9d0b697793a348/full/240,300/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 300,
+            "width": 240
+        }
+    ],
+    "items": [
+        {
+            "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/canvas/1",
+            "type": "Canvas",
+            "height": 3704,
+            "width": 2968,
+            "label": {
+                "none": [
+                    "Capa"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/60ecf750ef085f14df9d0b697793a348/full/240,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 240
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/canvas/1",
+                            "body": {
+                                "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/60ecf750ef085f14df9d0b697793a348/full/1603,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1603,
+                                "service": [
+                                    {
+                                        "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/60ecf750ef085f14df9d0b697793a348",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/canvas/2",
+            "type": "Canvas",
+            "height": 3816,
+            "width": 2904,
+            "label": {
+                "none": [
+                    "Pág. 1"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/d828c2784d5a61e99bc3d526a89cc301/full/228,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 228
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/canvas/2/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/canvas/2/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/canvas/2",
+                            "body": {
+                                "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/d828c2784d5a61e99bc3d526a89cc301/full/1522,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1522,
+                                "service": [
+                                    {
+                                        "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/d828c2784d5a61e99bc3d526a89cc301",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/canvas/3",
+            "type": "Canvas",
+            "height": 3816,
+            "width": 2904,
+            "label": {
+                "none": [
+                    "Pág. 2"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/dbe0fdd1194266765de9ce6f14822989/full/228,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 228
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/canvas/3/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/canvas/3/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/canvas/3",
+                            "body": {
+                                "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/dbe0fdd1194266765de9ce6f14822989/full/1522,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1522,
+                                "service": [
+                                    {
+                                        "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/dbe0fdd1194266765de9ce6f14822989",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/canvas/4",
+            "type": "Canvas",
+            "height": 3888,
+            "width": 5232,
+            "label": {
+                "none": [
+                    "Pág. 3"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/7b9fc3fa3bc099aa24e96069fdb5b640/full/300,223/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 223,
+                    "width": 300
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/canvas/4/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/canvas/4/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/canvas/4",
+                            "body": {
+                                "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/7b9fc3fa3bc099aa24e96069fdb5b640/full/2000,1486/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1486,
+                                "width": 2000,
+                                "service": [
+                                    {
+                                        "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/7b9fc3fa3bc099aa24e96069fdb5b640",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/canvas/5",
+            "type": "Canvas",
+            "height": 3888,
+            "width": 5232,
+            "label": {
+                "none": [
+                    "Pág. 4"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/98385f3aa0ff60ac6f65b3d94c2a27fa/full/300,223/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 223,
+                    "width": 300
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/canvas/5/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/canvas/5/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/canvas/5",
+                            "body": {
+                                "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/98385f3aa0ff60ac6f65b3d94c2a27fa/full/2000,1486/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1486,
+                                "width": 2000,
+                                "service": [
+                                    {
+                                        "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/98385f3aa0ff60ac6f65b3d94c2a27fa",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/canvas/6",
+            "type": "Canvas",
+            "height": 3904,
+            "width": 5304,
+            "label": {
+                "none": [
+                    "Pág. 5"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/ccb91e9817a59808e371ebe2a0a37495/full/300,221/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 221,
+                    "width": 300
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/canvas/6/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/canvas/6/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/canvas/6",
+                            "body": {
+                                "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/ccb91e9817a59808e371ebe2a0a37495/full/2000,1472/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1472,
+                                "width": 2000,
+                                "service": [
+                                    {
+                                        "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/ccb91e9817a59808e371ebe2a0a37495",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/canvas/7",
+            "type": "Canvas",
+            "height": 3920,
+            "width": 5272,
+            "label": {
+                "none": [
+                    "Pág. 6"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/5ce655f2f9220e8a77ccc4d521c7b71b/full/300,223/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 223,
+                    "width": 300
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/canvas/7/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/canvas/7/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/canvas/7",
+                            "body": {
+                                "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/5ce655f2f9220e8a77ccc4d521c7b71b/full/2000,1487/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1487,
+                                "width": 2000,
+                                "service": [
+                                    {
+                                        "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/5ce655f2f9220e8a77ccc4d521c7b71b",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/canvas/8",
+            "type": "Canvas",
+            "height": 3928,
+            "width": 5272,
+            "label": {
+                "none": [
+                    "Pág. 7"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/524c75d6d769659662cdc93fbf8f9e3f/full/300,224/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 224,
+                    "width": 300
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/canvas/8/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/canvas/8/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/canvas/8",
+                            "body": {
+                                "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/524c75d6d769659662cdc93fbf8f9e3f/full/2000,1490/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1490,
+                                "width": 2000,
+                                "service": [
+                                    {
+                                        "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/524c75d6d769659662cdc93fbf8f9e3f",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/canvas/9",
+            "type": "Canvas",
+            "height": 3992,
+            "width": 5272,
+            "label": {
+                "none": [
+                    "Pág. 8"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/0613d35f084ff48ce3cd84bb1906e073/full/300,227/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 227,
+                    "width": 300
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/canvas/9/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/canvas/9/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/canvas/9",
+                            "body": {
+                                "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/0613d35f084ff48ce3cd84bb1906e073/full/2000,1514/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1514,
+                                "width": 2000,
+                                "service": [
+                                    {
+                                        "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/0613d35f084ff48ce3cd84bb1906e073",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/canvas/10",
+            "type": "Canvas",
+            "height": 3992,
+            "width": 5240,
+            "label": {
+                "none": [
+                    "Pág. 9"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/fec41ee3d6e4e87fcd581e65587368c5/full/300,229/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 229,
+                    "width": 300
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/canvas/10/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/canvas/10/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/canvas/10",
+                            "body": {
+                                "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/fec41ee3d6e4e87fcd581e65587368c5/full/2000,1524/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1524,
+                                "width": 2000,
+                                "service": [
+                                    {
+                                        "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/fec41ee3d6e4e87fcd581e65587368c5",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/canvas/11",
+            "type": "Canvas",
+            "height": 4024,
+            "width": 5272,
+            "label": {
+                "none": [
+                    "Pág. 10"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/4da148baa0a849479157aae721e6e513/full/300,229/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 229,
+                    "width": 300
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/canvas/11/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/canvas/11/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/canvas/11",
+                            "body": {
+                                "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/4da148baa0a849479157aae721e6e513/full/2000,1527/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1527,
+                                "width": 2000,
+                                "service": [
+                                    {
+                                        "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/4da148baa0a849479157aae721e6e513",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/canvas/12",
+            "type": "Canvas",
+            "height": 4024,
+            "width": 5272,
+            "label": {
+                "none": [
+                    "Pág. 11"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/f44b110f34002004209f983716d3686e/full/300,229/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 229,
+                    "width": 300
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/canvas/12/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/canvas/12/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/canvas/12",
+                            "body": {
+                                "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/f44b110f34002004209f983716d3686e/full/2000,1527/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1527,
+                                "width": 2000,
+                                "service": [
+                                    {
+                                        "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/f44b110f34002004209f983716d3686e",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/canvas/13",
+            "type": "Canvas",
+            "height": 4024,
+            "width": 5272,
+            "label": {
+                "none": [
+                    "Pág. 12"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/0aefa2ef622600abb1ff3bbbbc7936bc/full/300,229/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 229,
+                    "width": 300
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/canvas/13/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/canvas/13/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/canvas/13",
+                            "body": {
+                                "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/0aefa2ef622600abb1ff3bbbbc7936bc/full/2000,1527/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1527,
+                                "width": 2000,
+                                "service": [
+                                    {
+                                        "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/0aefa2ef622600abb1ff3bbbbc7936bc",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/canvas/14",
+            "type": "Canvas",
+            "height": 3992,
+            "width": 5240,
+            "label": {
+                "none": [
+                    "Pág. 13"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/f2734e930bff7b5ebe30babcac8c9cdd/full/300,229/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 229,
+                    "width": 300
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/canvas/14/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/canvas/14/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/canvas/14",
+                            "body": {
+                                "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/f2734e930bff7b5ebe30babcac8c9cdd/full/2000,1524/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1524,
+                                "width": 2000,
+                                "service": [
+                                    {
+                                        "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/f2734e930bff7b5ebe30babcac8c9cdd",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/canvas/15",
+            "type": "Canvas",
+            "height": 4024,
+            "width": 5272,
+            "label": {
+                "none": [
+                    "Pág. 14"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/b6d8a1b57425d3079554930a03d3b721/full/300,229/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 229,
+                    "width": 300
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/canvas/15/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/canvas/15/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/canvas/15",
+                            "body": {
+                                "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/b6d8a1b57425d3079554930a03d3b721/full/2000,1527/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1527,
+                                "width": 2000,
+                                "service": [
+                                    {
+                                        "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/b6d8a1b57425d3079554930a03d3b721",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/canvas/16",
+            "type": "Canvas",
+            "height": 3992,
+            "width": 5272,
+            "label": {
+                "none": [
+                    "Pág. 15"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/5d58cd8c4977127d90929344719c6f99/full/300,227/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 227,
+                    "width": 300
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/canvas/16/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/canvas/16/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/canvas/16",
+                            "body": {
+                                "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/5d58cd8c4977127d90929344719c6f99/full/2000,1514/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1514,
+                                "width": 2000,
+                                "service": [
+                                    {
+                                        "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/5d58cd8c4977127d90929344719c6f99",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/canvas/17",
+            "type": "Canvas",
+            "height": 4024,
+            "width": 5240,
+            "label": {
+                "none": [
+                    "Pág. 16"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/d4f18d6e61fd28f571be946c943e9422/full/300,230/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 230,
+                    "width": 300
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/canvas/17/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/canvas/17/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/canvas/17",
+                            "body": {
+                                "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/d4f18d6e61fd28f571be946c943e9422/full/2000,1536/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1536,
+                                "width": 2000,
+                                "service": [
+                                    {
+                                        "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/d4f18d6e61fd28f571be946c943e9422",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/canvas/18",
+            "type": "Canvas",
+            "height": 3960,
+            "width": 5240,
+            "label": {
+                "none": [
+                    "Pág. 17"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/c1bad56bdd3b330ffc9b47a9e3d9c231/full/300,227/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 227,
+                    "width": 300
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/canvas/18/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/canvas/18/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/canvas/18",
+                            "body": {
+                                "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/c1bad56bdd3b330ffc9b47a9e3d9c231/full/2000,1511/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1511,
+                                "width": 2000,
+                                "service": [
+                                    {
+                                        "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/c1bad56bdd3b330ffc9b47a9e3d9c231",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/canvas/19",
+            "type": "Canvas",
+            "height": 3896,
+            "width": 5224,
+            "label": {
+                "none": [
+                    "Pág. 18"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/2592150dc3ac541988300af93fe1ec60/full/300,224/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 224,
+                    "width": 300
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/canvas/19/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/canvas/19/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/canvas/19",
+                            "body": {
+                                "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/2592150dc3ac541988300af93fe1ec60/full/2000,1492/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1492,
+                                "width": 2000,
+                                "service": [
+                                    {
+                                        "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/2592150dc3ac541988300af93fe1ec60",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/canvas/20",
+            "type": "Canvas",
+            "height": 3896,
+            "width": 5224,
+            "label": {
+                "none": [
+                    "Pág. 19"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/1f89a0bdecd4527d785a997e7c8a2f95/full/300,224/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 224,
+                    "width": 300
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/canvas/20/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/canvas/20/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/canvas/20",
+                            "body": {
+                                "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/1f89a0bdecd4527d785a997e7c8a2f95/full/2000,1492/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1492,
+                                "width": 2000,
+                                "service": [
+                                    {
+                                        "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/1f89a0bdecd4527d785a997e7c8a2f95",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/canvas/21",
+            "type": "Canvas",
+            "height": 3928,
+            "width": 5224,
+            "label": {
+                "none": [
+                    "Pág. 20"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/91804d43cb6d0a9a2c8054e6fc6ccb61/full/300,226/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 226,
+                    "width": 300
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/canvas/21/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/canvas/21/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/canvas/21",
+                            "body": {
+                                "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/91804d43cb6d0a9a2c8054e6fc6ccb61/full/2000,1504/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1504,
+                                "width": 2000,
+                                "service": [
+                                    {
+                                        "id": "https://hackathan-iiif.onrender.com/br_rjanrio_0e_cod_0_0390_v_06/91804d43cb6d0a9a2c8054e6fc6ccb61",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
